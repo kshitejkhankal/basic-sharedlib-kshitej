@@ -1,4 +1,4 @@
-def call( string foldername){
+def call(String foldername){
                 echo 'Hello World'
                 sh "mkdir ${foldername}"
 }
